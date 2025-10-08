@@ -37,7 +37,7 @@ A few shots from my portfolio:
 
 ## 📫 Let’s Connect
 
-- 💼 GitHub: [github.com/casian2018](https://github.com/casian2018)  
+- 💼 Linkdin: [linkdin.com/casian2018](https://www.linkedin.com/in/oprea-casian-george-a4461020a/)  
 - 📷 Instagram: [@c4s14n.tm](https://www.instagram.com/c4s14n.tm/)  
 - ✉️ Email: [dev@ctp.one](mailto:dev@ctp.one)  
 
