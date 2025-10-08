@@ -31,19 +31,19 @@ Explore my visual world on Instagram:
 
 Here are some highlights from my work:
 
-| ![Photo 1](/1 (1).jpg) | ![Photo 2](/1 (2).jpg) | ![Photo 3](/1 (3).jpg) |
+| ![Photo 1](/1(1).jpg) | ![Photo 2](/1(2).jpg) | ![Photo 3](/1(3).jpg) |
 |:---:|:---:|:---:|
 | Photo 1 | Photo 2 | Photo 3 |
 
-| ![Photo 4](/1 (4).jpg) | ![Photo 5](/1 (5).jpg) | ![Photo 6](/1 (6).jpg) |
+| ![Photo 4](/1(4).jpg) | ![Photo 5](/1(5).jpg) | ![Photo 6](/1(6).jpg) |
 |:---:|:---:|:---:|
 | Photo 4 | Photo 5 | Photo 6 |
 
-| ![Photo 7](/1 (7).jpg) | ![Photo 8](/1 (8).jpg) | ![Photo 9](/1 (9).jpg) |
+| ![Photo 7](/1(7).jpg) | ![Photo 8](/1(8).jpg) | ![Photo 9](/1(9).jpg) |
 |:---:|:---:|:---:|
 | Photo 7 | Photo 8 | Photo 9 |
 
-| ![Photo 10](/1 (10).jpg) | ![Photo 11](/1 (11).jpg) | ![Photo 12](/1 (12).jpg) |
+| ![Photo 10](/1(10).jpg) | ![Photo 11](/1(11).jpg) | ![Photo 12](/1(12).jpg) |
 |:---:|:---:|:---:|
 | Photo 10 | Photo 11 | Photo 12 |
 
