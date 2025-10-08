@@ -35,6 +35,26 @@ A few shots from my portfolio:
 
 ---
 
+Here are some highlights from my work:
+
+| ![Photo 1](./images/1.jpg) | ![Photo 2](./images/2.jpg) | ![Photo 3](./images/3.jpg) |
+|:---:|:---:|:---:|
+| Photo 1 | Photo 2 | Photo 3 |
+
+| ![Photo 4](./images/4.jpg) | ![Photo 5](./images/5.jpg) | ![Photo 6](./images/6.jpg) |
+|:---:|:---:|:---:|
+| Photo 4 | Photo 5 | Photo 6 |
+
+| ![Photo 7](./images/7.jpg) | ![Photo 8](./images/8.jpg) | ![Photo 9](./images/9.jpg) |
+|:---:|:---:|:---:|
+| Photo 7 | Photo 8 | Photo 9 |
+
+| ![Photo 10](./images/10.jpg) |
+|:---:|
+| Photo 10 |
+
+---
+
 ## 📫 Let’s Connect
 
 - 💼 Linkdin: [linkdin.com/casian2018](https://www.linkedin.com/in/oprea-casian-george-a4461020a/)  
