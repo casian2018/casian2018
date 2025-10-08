@@ -35,7 +35,7 @@ Here are some highlights from my work:
 |:---:|:---:|:---:|
 | Photo 1 | Photo 2 | Photo 3 |
 
-| ![Photo 4](/1(4).jpg) | ![Photo 5](/1(5).jpg) | ![Photo 6](/1(6).jpg) |
+| ![Photo 4](/1(4).jpg) | ![Photo 5](/1(5).jpg) | ![Photo 6](./1(6).jpg) |
 |:---:|:---:|:---:|
 | Photo 4 | Photo 5 | Photo 6 |
 
