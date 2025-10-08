@@ -57,7 +57,7 @@ Here are some highlights from my work:
 
 ## 📫 Let’s Connect
 
-- 💼 Linkdin: [linkdin.com/casian2018](https://www.linkedin.com/in/oprea-casian-george-a4461020a/)  
+- 💼 Linkdin: [linkdin.com/casian2018]([https://www.linkedin.com/in/oprea-casian-george-a4461020a/](https://www.linkedin.com/in/casian-oprea-a4461020a/))  
 - 📷 Instagram: [@c4s14n.tm](https://www.instagram.com/c4s14n.tm/)  
 - ✉️ Email: [dev@ctp.one](mailto:dev@ctp.one)  
 
